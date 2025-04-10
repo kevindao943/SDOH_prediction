@@ -1,0 +1,16 @@
+SDOH Annotation Evaluation Report
+================================
+
+SDOH Evaluation Results:
+sdoh_community_present - Accuracy: 0.6000, F1-score: 0.4902
+sdoh_community_absent - Accuracy: 0.8600, F1-score: 0.8360
+sdoh_education - Accuracy: 0.5800, F1-score: 0.7171
+sdoh_economics - Accuracy: 0.1300, F1-score: 0.0772
+sdoh_environment - Accuracy: 0.5500, F1-score: 0.4704
+behavior_alcohol - Accuracy: 0.5600, F1-score: 0.6030
+behavior_tobacco - Accuracy: 0.6900, F1-score: 0.6693
+behavior_drug - Accuracy: 0.6000, F1-score: 0.5918
+
+Overall Results:
+Overall Accuracy: 0.5713
+Overall F1-score: 0.5569
